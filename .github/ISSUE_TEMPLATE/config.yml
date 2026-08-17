@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Discussions / Support
+    url: https://github.com/saihgupr/alfred-mcp/discussions
+    about: Ask community questions or share workflow ideas

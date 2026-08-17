@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alfred-mcp"
+version = "0.1.0"
+description = "MCP Server for creating, listing, inspecting, editing, deleting, and triggering macOS Alfred 5 Workflows."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Saihgupr"}
+]
+keywords = ["alfred", "mcp", "macos", "workflows", "automation"]
+classifiers = [
+  "Operating System :: MacOS",
+  "Programming Language :: Python :: 3",
+  "Topic :: Utilities"
+]
+dependencies = [
+  "fastmcp>=0.1.0",
+  "send2trash>=1.8.0"
+]
+
+[project.scripts]
+alfred-mcp = "server:main"
+
+[project.urls]
+Homepage = "https://github.com/saihgupr/alfred-mcp"
+Repository = "https://github.com/saihgupr/alfred-mcp.git"
+"Issue Tracker" = "https://github.com/saihgupr/alfred-mcp/issues"
