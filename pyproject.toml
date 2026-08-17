@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "alfred-mcp"
-version = "0.1.0"
+version = "1.0.0"
 description = "MCP Server for creating, listing, inspecting, editing, deleting, and triggering macOS Alfred 5 Workflows."
 readme = "README.md"
 requires-python = ">=3.10"
