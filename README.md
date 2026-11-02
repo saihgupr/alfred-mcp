@@ -1,9 +1,19 @@
 <h1>
-  Alfred MCP Server
+  Alfred 5 Workflows MCP (macOS)
   <img src="assets/icon.png" width="80" align="right" />
 </h1>
 
-Alfred MCP Server connects AI assistants directly to macOS Alfred 5. It allows AI models to search, create, modify, execute, and package Alfred workflows using natural language.
+[![GitHub stars](https://img.shields.io/github/stars/saihgupr/alfred-mcp?style=social)](https://github.com/saihgupr/alfred-mcp/stargazers)
+[![License: MIT](https://img.shields.io/github/license/saihgupr/alfred-mcp)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](pyproject.toml)
+[![Release](https://img.shields.io/github/v/release/saihgupr/alfred-mcp)](https://github.com/saihgupr/alfred-mcp/releases)
+
+![Alfred 5 Workflows MCP banner](assets/alfred_banner.jpg)
+
+> For the macOS **Alfred 5** app ([alfredapp.com](https://www.alfredapp.com)) with Powerpack — control your workflows from Claude, Cursor, and other MCP clients.
+> Not affiliated with the Alfred API platform (`lumberjack-so/alfred-mcp`).
+
+Alfred 5 Workflows MCP connects AI assistants directly to macOS Alfred 5. It allows AI models to search, create, modify, execute, and package Alfred workflows using natural language.
 
 ---
 
@@ -128,12 +138,12 @@ npx @modelcontextprotocol/inspector .venv/bin/python server.py
 
 ## Contributing
 
-Contributions are welcome! Please submit all Pull Requests to the **develop** branch.
+Contributions are welcome! Please submit all Pull Requests to the **main** branch.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/awesome-feature`)
 3. Commit your changes and push to your fork
-4. Open a Pull Request to **develop**
+4. Open a Pull Request to **main**
 
 ---
 
@@ -141,7 +151,7 @@ Contributions are welcome! Please submit all Pull Requests to the **develop** br
 
 If you encounter any issues, bugs, or have feature requests, please [open an issue on GitHub](https://github.com/saihgupr/alfred-mcp/issues).
 
-Alfred MCP Server is open-source and free. If you find it useful, consider giving it a star ⭐ or making a donation to support development!
+Alfred 5 Workflows MCP is open-source and free. If you find it useful, consider giving it a star ⭐ or making a donation to support development!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saihgupr)
 
