@@ -134,12 +134,12 @@ npx @modelcontextprotocol/inspector .venv/bin/python server.py
 
 ## Contributing
 
-Contributions are welcome! Please submit all Pull Requests to the **main** branch.
+Contributions are welcome! Please submit all Pull Requests to the **develop** branch.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/awesome-feature`)
 3. Commit your changes and push to your fork
-4. Open a Pull Request to **main**
+4. Open a Pull Request to **develop**
 
 ---
 

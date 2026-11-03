@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "alfred-mcp"
 version = "1.0.0"
-description = "Alfred 5 Workflows MCP (macOS): MCP Server for creating, listing, inspecting, editing, deleting, and triggering Alfred 5 workflows from Claude/Cursor."
+description = "Alfred 5 Workflows MCP: MCP Server for creating, listing, inspecting, editing, deleting, and triggering Alfred 5 workflows from Claude/Cursor."
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
