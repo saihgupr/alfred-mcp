@@ -5,9 +5,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/saihgupr/alfred-mcp?style=social)](https://github.com/saihgupr/alfred-mcp/stargazers) [![License: MIT](https://img.shields.io/github/license/saihgupr/alfred-mcp)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](pyproject.toml) [![Release](https://img.shields.io/github/v/release/saihgupr/alfred-mcp)](https://github.com/saihgupr/alfred-mcp/releases)
 
-<p align="center">
-  <img src="assets/alfred_banner.jpg" alt="Alfred 5 Workflows MCP banner" width="400" style="width: 100%; max-width: 760px; height: 280px; object-fit: cover; object-position: center; border-radius: 12px;" />
-</p>
+![Alfred 5 Workflows MCP banner](assets/banner-wide.jpg)
 
 > For the macOS **Alfred 5** app ([alfredapp.com](https://www.alfredapp.com)) with Powerpack — control your workflows from Claude, Cursor, and other MCP clients.
 > Not affiliated with the Alfred API platform (`lumberjack-so/alfred-mcp`).
