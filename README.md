@@ -1,6 +1,5 @@
 <h1>
-  Alfred 5 Workflows MCP (macOS)
-  <img src="assets/icon.png" width="44" align="right" alt="Alfred MCP icon" />
+  Alfred 5 Workflows MCP
 </h1>
 
 [![GitHub stars](https://img.shields.io/github/stars/saihgupr/alfred-mcp?style=social)](https://github.com/saihgupr/alfred-mcp/stargazers) [![License: MIT](https://img.shields.io/github/license/saihgupr/alfred-mcp)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](pyproject.toml) [![Release](https://img.shields.io/github/v/release/saihgupr/alfred-mcp)](https://github.com/saihgupr/alfred-mcp/releases)
